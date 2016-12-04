@@ -4,8 +4,9 @@ Project of test
 1. ``` pip install -r requirements.txt ```
 2. ``` python main.py ```
 
-
-You can use the ```gem foreman``` to run in o mongo.
+## Installation Foreman
+###### You can use the foreman to run in o mongo.
+$ gem install foreman
 
 [More details about an installation](https://github.com/ddollar/foreman)
 
